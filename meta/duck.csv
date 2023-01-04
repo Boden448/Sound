@@ -69,3 +69,5 @@ filename,fold,target,category
 25dog.wav,1,1,dog
 26dog.wav,1,1,dog
 27dog.wav,1,1,dog
+1cow.wav,1,10,cow
+2cow.wav,1,10,cow
