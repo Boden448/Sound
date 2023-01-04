@@ -1,8 +1,3 @@
-import csv
-row_list = [["SN", "Name", "Contribution"],
-             [1, "Linus Torvalds", "Linux Kernel"],
-             [2, "Tim Berners-Lee", "World Wide Web"],
-             [3, "Guido van Rossum", "Python Programming"]]
-with open('protagonist.csv', 'w', newline='') as file:
-    writer = csv.writer(file)
-    writer.writerows(row_list)
+filename,fold,target,category,esc10,src_file,take
+1-100032-A-0.wav,1,0,dog,True,100032,A
+1-100038-A-14.wav,1,14,chirping_birds,False,100038,A
