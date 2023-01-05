@@ -19,7 +19,7 @@ filename,fold,target,category
 25duck.wav,1,0,duck
 26duck.wav,1,0,duck
 27duck.wav,1,0,duck
-28duck.wav,1,0,duck
+#28duck.wav,1,0,duck#
 1dog.wav,1,1,dog
 3dog.wav,1,1,dog
 4dog.wav,1,1,dog
