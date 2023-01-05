@@ -9,7 +9,6 @@ filename,fold,target,category
 15duck.wav,1,0,duck
 16duck.wav,1,0,duck
 17duck.wav,1,0,duck
-18duck.wav,1,0,duck
 1dog.wav,1,1,dog
 3dog.wav,1,1,dog
 4dog.wav,1,1,dog
@@ -28,6 +27,7 @@ filename,fold,target,category
 8cow.wav,1,2,cow
 9cow.wav,1,2,cow
 10cow.wav,1,2,cow
+11cow.wav,1,2,cow
 1pig.wav,1,3,pig
 2pig.wav,1,3,pig
 3pig.wav,1,3,pig
@@ -37,3 +37,4 @@ filename,fold,target,category
 8pig.wav,1,3,pig
 9pig.wav,1,3,pig
 10pig.wav,1,3,pig
+11.pig.wav,1,3,pig
