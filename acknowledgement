@@ -1,0 +1,19 @@
+AI methods
+
+1. https://www.tensorflow.org/tutorials/audio/transfer_learning_audio
+2. https://github.com/karolpiczak/ESC-50
+3  https://www.tensorflow.org/api_docs/python/tf/keras/optimizers/experimental/Adafactor 
+4. https://github.com/karolpiczak/EARS 
+5. https://www.tensorflow.org/tutorials/audio/simple_audio
+6. https://github.com/tensorflow/docs/blob/master/site/en/tutorials/audio/transfer_learning_audio.ipynb
+
+Localising audio
+
+1. https://github.com/aishoot/Sound_Localization_Algorithms 
+2. Feng Miao, Diange Yang, Junjie Wen, Xiaomin Lian, Moving sound source localization based on triangulation method, Journal of Sound and Vibration, Volume 385, 2016, Pages 93-103
+3. https://github.com/pedro-lucas-bravo/mct_machine_learning_project 
+4. https://github.com/pankajchejara23/pydoa 
+5. https://en.wikipedia.org/wiki/Direction_of_arrival
+6. https://github.com/SqrtPapere/DOA-Estimation 
+7. https://uk.mathworks.com/help/audio/ug/live-direction-of-arrival-estimation-with-a-linear-microphone-array.html
+8. https://uk.mathworks.com/help/phased/ug/music-super-resolution-doa-estimation.html
