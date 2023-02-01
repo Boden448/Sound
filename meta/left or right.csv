@@ -1,9 +1,17 @@
 filename,fold,target,category
-right1.wav left8.wav,1,0,right
-right2.wav left8.wav,1,0,right
-right3.wav left8.wav,1,0,right
-right4.wav left8.wav,1,0,right
-righ5.wav left8.wav,1,0,right
-right6.wav left8.wav,1,0,right
-right7.wav left8.wav,1,0,right
-right8.wav left8.wav ,1,0,right
+right1.wav,1,0,right
+right2.wav,1,0,right
+right3.wav,1,0,right
+right4.wav,1,0,right
+righ5.wav ,1,0,right
+right6.wav,1,0,right
+right7.wav,1,0,right
+right8.wav ,1,0,right
+left1.wav ,0,0,left
+left2.wav ,0,0,left
+left3.wav ,0,0,left
+left4.wav ,0,0,left
+left5.wav ,0,0,left
+left6.wav ,0,0,left
+left7.wav ,0,0,left
+left8.wav ,0,0,left
